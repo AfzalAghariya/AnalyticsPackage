@@ -37,7 +37,6 @@ public class HomeVC: UIViewController {
     
     public static let HomeStoryboard = UIStoryboard(name: "Analytics", bundle: .myPackage)
     
-    
     public override func viewDidLoad() {
         super.viewDidLoad()
         
